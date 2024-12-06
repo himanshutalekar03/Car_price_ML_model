@@ -45,5 +45,5 @@ The dataset contains `N` rows and `K` columns. (Replace `N` and `K` with actual 
 ### Steps to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/car-price-prediction.git
-   cd car-price-prediction
+   git clone https://github.com/your-username/car_price_ML_model.git
+   cd car_price_ML_model
